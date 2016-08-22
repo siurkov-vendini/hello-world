@@ -1,2 +1,3 @@
 # hello-world
-Just first on
+Just first one.
+This is first commit
